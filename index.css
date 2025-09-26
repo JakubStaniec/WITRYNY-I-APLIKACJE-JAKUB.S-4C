@@ -1,0 +1,41 @@
+p { font-size: 16px; color: black;}
+.opis { margin: 10px 0; }
+#kontener { background: #f5f5f5; padding: 20px; border-radius: 6px; }
+.wazne { color: red; font-weight: bold; }
+input[type="password"] { border: 2px solid red; }
+
+a:hover { color: orange; text-decoration: none;}
+p::first-line { font-weight: bold;}
+
+h1, h2, h3 { color: navy; margin-bottom: 8px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
