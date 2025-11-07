@@ -1,0 +1,86 @@
+body{
+font-family: 'Courier New', Courier, monospace;
+background-color: black;
+color: white;
+font-size: larger;
+
+}
+div{
+    width: 200px; height: 200px;
+}
+div#size{
+    width: 300px; height:300px; background-color: crimson;
+}
+
+p#p-size{
+width: 75%; /*height100*/
+background-color: gray;
+}
+div#border-width{
+background-color: navy;
+border-style: solid;
+border-color: blueviolet;
+border-top-width: 10px;
+border-bottom-width: 10px;
+
+
+}
+div#border-width-short{
+background-color: aquamarine;
+border-style: dashed;
+border-color: orange;
+border-width: 5px 10px 15px 20px;
+}
+div#border-color{
+    background-color: aliceblue;
+    border-style: dotted;
+border-width: 15px;
+border-top-color: pink;
+border-right-color: brown;
+border-bottom-color:darkorchid;
+border-left-color: darkred;
+}
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

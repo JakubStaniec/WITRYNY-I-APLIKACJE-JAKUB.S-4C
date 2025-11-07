@@ -1,0 +1,77 @@
+body{
+    background-color: darkgoldenrod;
+}
+
+
+
+body{
+background-image: url(photo-1497515114629-f71d768fd07c.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+h1,h2{
+color: antiquewhite;
+text-align: center;
+
+
+}
+
+p{
+color: aliceblue;
+text-align: center;
+font-size: 18px;
+}
+div{
+    width: 100px;
+    height: 100px;
+    margin-left: 80%;
+
+}
+
+div.gradient{
+background-image: linear-gradient(to bottom right,#6f4e37,#c2b280);
+
+
+}
+div.color{
+background-color: bisque;
+
+}
+div.image{
+    background-image: url(photo-1524350876685-274059332603.jpg);
+    background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
