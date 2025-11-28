@@ -1,0 +1,86 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#italic {
+    font-style: italic;
+}
+p{
+    font-family: "Libertinus Mono", monospace;
+    font-size: 120%;
+}
+#bold {
+    font-weight: bolder;
+}
+#lower {
+    text-transform: lowercase;
+}
+#upper {
+    text-transform: uppercase;
+}
+#capitalize {
+    text-transform: capitalize;
+}
+#under {
+    text-decoration: underline;
+}
+#over {
+    text-decoration: overline;
+}
+#linethrough {
+    text-decoration: line-through;
+}
+#wavy-green {
+    text-decoration-color: green;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 5px;
+}
+#pink-dashed {
+    text-decoration: pink dashed underline overline;
+}
+#purple-double {
+    text-decoration: underline double purple 3px;
+}
+#navy-dotted {
+    text-decoration: navy line-through dotted 5px;
+}
+#link {
+    text-decoration: none;
+    color: orange;
+}
+#space {
+    line-height: 20px;
+}
+#indent {
+    text-indent: 50px;
+}
+#letter {
+    letter-spacing: 10px;
+}
+#word {
+    word-spacing: 10px;
+}
+#shadows {
+    width: 80%;
+    margin: 30px auto;
+    border: 2px solid palevioletred;
+    box-shadow: 10px 10px 10px palevioletred;
+}
+#stopka {
+    height: 50px;
+}
+#yellow-shadow {
+    text-shadow: 10px 10px 10px yellow;
+}
+#green-shadow {
+    text-shadow: 8px -8px green;
+}
+#blue-shadow {
+    text-shadow: -10px 10px 3px blue;
+}
+#grey-shadow {
+    text-shadow: 0px 5px 5px grey;
+}
+#purple-shadow{
+    text-shadow: 0px 0px 5px purple;
+}
