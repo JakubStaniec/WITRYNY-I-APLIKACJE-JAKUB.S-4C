@@ -51,3 +51,27 @@ span, .logo{
     border: 2px solid navy;
     box-shadow: 0px 4px 8px rgba(0,0,0,0.5);
 }
+.radius{
+    border-radius: 15px;
+}
+
+ul#auto{
+    list-style-image: url('../images/samochod.png');
+}
+
+ul#movie{
+    list-style-image: url('../images/movie.png');
+}
+
+.team{
+    width: 50%;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    text-align: left;
+}
+
+ul#outside{
+    list-style-position: outside;
+}
+
+
