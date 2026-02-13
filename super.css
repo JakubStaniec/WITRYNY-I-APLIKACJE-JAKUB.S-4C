@@ -1,0 +1,37 @@
+.blue{
+background-color: blue;
+width: 200px;
+height: 50px;
+text-align: center;
+color: aliceblue;
+}
+
+.brown{
+background-color: brown;
+width: 200px;
+height: 50px;
+text-align: center;
+color: aliceblue;
+}
+
+.yellow{
+background-color: yellow;
+width: 200px;
+height: 50px;
+text-align: center;
+color: aliceblue;
+}
+.offset{
+position: relative;
+top: 40px;
+left: 40px;
+}
+
+
+
+
+
+
+
+
+
