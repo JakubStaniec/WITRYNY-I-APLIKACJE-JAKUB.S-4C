@@ -1,0 +1,20 @@
+div.rodzic {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(27, 4, 46);
+}
+
+div.dziecko {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 50px;
+    height: 50px;
+    background-color: navy;
+    transform: translate(-50%, -50%);
+}
+.circle {
+    border-radius: 50%;
+    border: 1px solid; 
+}

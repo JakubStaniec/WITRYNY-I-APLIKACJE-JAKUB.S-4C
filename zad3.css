@@ -1,0 +1,16 @@
+div.wraper {
+margin: 30px auto;
+display: inline-block;
+font-size: 24px;
+}
+
+
+span.tooltip{
+    
+border: 1px solid black;
+background-color: lightblue;
+font-size: smaller;
+width: 150%;
+height: 150%;
+}
+
