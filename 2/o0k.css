@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+div.produkt{
+    width: 500px;
+    background-color: white;
+    border: 1px solid gray;
+    margin: 50px auto;
+    padding: 20px;
+    position: relative;
+}
+
+div.promo-tag{
+    position: absolute;
+    top: -15px;
+    left: 20px;
+    padding: 5px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
