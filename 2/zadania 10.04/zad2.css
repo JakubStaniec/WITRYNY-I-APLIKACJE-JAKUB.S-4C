@@ -1,0 +1,7 @@
+ul > li {
+    border: 2px solid black;
+}
+
+ul ul li {
+    border: none;
+}
