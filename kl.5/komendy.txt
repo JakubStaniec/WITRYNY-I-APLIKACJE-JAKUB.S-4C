@@ -1,0 +1,15 @@
+1. 
+SELECT idObiekt, plik, nazwa FROM obiekty WHERE panstwo = "Islandia"
+
+2.s
+SELECT obiekty.plik, obiekty.nazwa, obiekty.nazwaCechy, obiekty.wartoscCechy, obiekty.opis FROM obiekty
+INNER JOIN rodzaje on obiekty.idRodzaj = rodzaje.idRodzaj
+WHERE obiekty.idObiekt = 46
+
+3.
+SELECT obiekty.nazwa FROM obiekty
+INNER JOIN rodzaje ON obiekty.idRodzaj = rodzaje.idRodzaj
+WHERE rodzaje.idRodzaj = 10
+
+4.
+SELECT rodzaje.rodzaj, COUNT(obiekty.idObiekt) AS "Liczba obiektów" FROM rodzaje INNER JOIN obiekty ON rodzaje.idRodzaj = obiekty.idRodzaj GROUP BY rodzaje.rodzaj;
